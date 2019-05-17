@@ -27,5 +27,3 @@ for entity in feed.entity:
 	print(bid,rt_trips[bid])
   #break
 #print(rt_trips)
-# for i in range(lg):
-#   print()
