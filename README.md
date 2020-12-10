@@ -1,5 +1,7 @@
 # Realtime-bus-timings
 
-use dist.py in the following way:
+Use `dist.py` in the following way:
+```py
 import dist
-dist.distance(l1,l2)    {l1 & l2 are tuples with the (lat,long)}
+dist.distance(l1,l2)    # l1 & l2 are tuples with the (lat,long)
+```
